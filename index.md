@@ -11,7 +11,8 @@
             width: -moz-fit-content !important;
         }
 
-        #main-content {
+        .main-content {
+            max-width: none;
             width: fit-content !important;
             width: -moz-fit-content !important;
         }
