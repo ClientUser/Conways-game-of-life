@@ -89,6 +89,7 @@
         .app-section {
             margin-bottom: 20px;
         }
+       
 
         #app-state {
             width: fit-content;
