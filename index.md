@@ -11,7 +11,8 @@
             width: -moz-fit-content !important;
         }
 
-        #main-content {
+        .main-content {
+            max-width: none !important;
             width: fit-content !important;
             width: -moz-fit-content !important;
         }
@@ -32,6 +33,7 @@
         .app-container {
             background-color: bisque;
             min-height: 100vh;
+            font-size: 16px;
         }
 
         #app-title {
